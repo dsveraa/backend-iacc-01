@@ -1,6 +1,6 @@
-backend-peluqueria
-instrucciones.md
 .idea
+instrucciones.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
